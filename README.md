@@ -28,6 +28,3 @@ It was created as an educational algorithm visualization project.
 2. Build the solution.
 3. Run the project.
 
-## Status
-
-Finished C# desktop project prepared for GitHub portfolio.

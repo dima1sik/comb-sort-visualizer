@@ -1,4 +1,4 @@
-﻿# Comb Sort Visualizer Csharp
+﻿# Comb Sort Visualizer
 
 Portfolio-ready university project.
 
@@ -18,3 +18,4 @@ To be updated after project review.
 ## Status
 
 Work in progress: cleanup, English UI translation, README, and screenshots.
+

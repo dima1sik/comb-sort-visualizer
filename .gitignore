@@ -1,0 +1,38 @@
+﻿# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.vs/
+
+# Secrets / local config
+.env
+local.properties
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+
+# Build outputs
+build/
+dist/
+out/
+bin/
+obj/
+target/
+.gradle/
+
+# Logs
+*.log
+
+# Archives / binaries
+*.zip
+*.rar
+*.7z
+*.exe
+*.dll
+*.pdb
+*.suo
+*.user

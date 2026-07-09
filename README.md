@@ -40,3 +40,11 @@ README.md
 
 This project focuses on algorithm visualization and desktop application development with C#.
 
+## Screenshots
+
+### Main Window
+![Main Window](screenshots/main-window.png)
+
+### Sorting Process
+![Sorting Process](screenshots/sorting-process.png)
+
